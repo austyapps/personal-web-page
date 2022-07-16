@@ -1,0 +1,34 @@
+h1{
+  text-align: center;
+  color:darkblue;
+  text-shadow:20px;
+  text-decoration-color: black;
+  font-family:serif;
+  
+}
+img
+{
+  height: 100px;
+  width:auto;
+  margin: 5px;
+  border-color: black;
+  border-width: 1px;
+  border-style:solid;
+  float: left;
+
+}
+h6{
+  color: gray;
+  font-weight:bold;
+  font-size: 18px;
+}
+h3{
+  font-family: fantasy;
+  letter-spacing: .3px;
+  
+}
+p{
+  color: red;
+  text-align: left;
+}
+
